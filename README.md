@@ -1,21 +1,24 @@
 # tugas_uas_pw2
 APLIKASI WEB ACADEMIC APPS
 
-#REQUIREMENTS
-Node version v22.16.0
-NPM Version 10.8.2
+# REQUIREMENTS
+# Node version v22.16.0
+# NPM Version 10.8.2
 
-CLONE REPOSITORY INI
-import sql file .sql ke database mysql
+#CLONE REPOSITORY INI
+https://github.com/Kafabih/tugas_uas_pw2.git
 
-#jalankan command ini di terminal vs code: 
--cd backend
--npm install
--npm run dev
+# IMPORT .SQL FILE
+#import sql file .sql ke database mysql
 
-#buka terminal baru
--cd frontend
--npm install
--npm run dev
+# jalankan command ini di terminal vs code: 
+# - cd backend
+# - npm install
+# - npm run dev
 
-ENJOY THE APPSS
+# buka terminal baru
+# -cd frontend
+# -npm install
+# -npm run dev
+
+# ENJOY THE APPSS
