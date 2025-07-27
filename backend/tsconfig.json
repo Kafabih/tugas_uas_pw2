@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "target": "ES2020",
+    "moduleResolution": "node",
+    "strict": true,
+    "resolveJsonModule": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "skipLibCheck": true
+  },
+  "include": [
+    "src/**/*",  // Include all source files
+    "src/types/**/*.d.ts"  // Include the custom types directory
+  ],
+  "files":["src/types/express.d.ts"]
+}
